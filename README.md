@@ -1,24 +1,41 @@
-# Swift
+<p align="center">
+  <a href="https://github.com/sree-sankar/IEEEmadC-wiki">
+    <img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/assets/Feature%20Graphic.png" alt="Darasa">
+  </a>
+  <h3 align="center">Swift</h3>
+</p>
+<p align="center">
+    <h4>Darasa project is a class attendance, monitoring and management system that comprise of two android applications and a web      dashboard.<br></h4>
+</p>
+<p>
+   <h5>Darasa Student app is an attendance-recording app that helps students confirm their class attendance. 
+As a Student, you will also be able to plan your schedule and classes easily with darasa timetable. <br></h5>
 
-it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
+   <h5>Darasa Lecturer app essentially helps the Lecturer plan their semester well ahead of time. It provides swift and easy way of creating and managing classes. On top, it allows you to track attendance of students in each unit/class you teach.<br></h5>
+</p>
 
-It means: 
+## Table of contents
 
-* Improvements in the **cooperative** aspect: forks, pull-requests and roles.
-* You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
-* **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to Github Pages and Jekyll Server Side Generation process!
-* **Markdown and html** mixed together!
-* **Multiple free search engines!** on a static site!
-* **History, revision comparison** and everything you need from a wiki platform.
-* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
-* Non-existent wiki page links are "[red](wiki/red.md)", you can **click on them to automatically create a new page**!
-* [External links](http://www.google.it) get the right icon automatically
-* **Component system with hooks** that allows you to totally customize your wiki UI. (see customization section below) 
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below)
-* Integrated **Blogging** feature thanks to jekyll!
-
-You can fork/copy the master branch now and start your wiki in just 1 minute.
+- [Screenshots](#)
+- [Promo](#)
+- [Contact Information](#)
+- [Darasa Lecturer App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
+- [Darasa Student App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
+- [Darasa Web Dashboard](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
 
 
-Instructions and documentation: (http://drassil.github.io/git-wiki)
+
+### Screenshots
+
+<img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/Screenshots/1.png" width="275"> <img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/Screenshots/2.png" width="275"> <img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/Screenshots/3.png" width="275">
+
+<img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/Screenshots/4.png" width="275"> <img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/Screenshots/5.png" width="275"> <img src="https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/Screenshots/6.png" width="275">
+
+### Promo Video
+
+
+#### Developer
+* Joel Abraham
+* Divine A Mathew
+* Sree Sankar E
+
