@@ -32,7 +32,7 @@
 
 * See [LICENSE](https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/LICENSE) file
 
-#### Developers
+#### Developers (Team : EChayanz)
 * Joel Abraham
 * Divine A Mathew
 * Sree Sankar E
