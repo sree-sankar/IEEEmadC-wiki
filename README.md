@@ -5,24 +5,17 @@
   <h3 align="center">Swift</h3>
 </p>
 <p align="center">
-    <h4>Darasa project is a class attendance, monitoring and management system that comprise of two android applications and a web      dashboard.<br></h4>
-</p>
+    <h5>In 2018, Thomson Reuters Foundation released a study that ranked India as the most dangerous place because of its high incidences of sexual violence, lack of access to justice in rape cases, child marriage, female feticide and human trafficking. In addition to access to justice, the process of getting justice involving numerous visits to the courts and lack of standardized procedures leading to delays, discourage women and others from pursuing legal battles.<br></h5></p>
 <p>
-   <h5>Darasa Student app is an attendance-recording app that helps students confirm their class attendance. 
-As a Student, you will also be able to plan your schedule and classes easily with darasa timetable. <br></h5>
+   <h5>The App identify the factors and patterns that delay the legal process and to improve the current system. Solution involve finding legal IPC Sections and finding the specific courts, lawyers.<br></h5>
 
-   <h5>Darasa Lecturer app essentially helps the Lecturer plan their semester well ahead of time. It provides swift and easy way of creating and managing classes. On top, it allows you to track attendance of students in each unit/class you teach.<br></h5>
 </p>
 
 ## Table of contents
 
 - [Screenshots](#)
 - [Promo](#)
-- [Contact Information](#)
-- [Darasa Lecturer App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
-- [Darasa Student App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
-- [Darasa Web Dashboard](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
-
+- [License](#)
 
 
 ### Screenshots
@@ -33,6 +26,9 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 
 ### Promo Video
 
+### License
+
+* See [LICENSE](https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/LICENSE) file
 
 #### Developer
 * Joel Abraham
