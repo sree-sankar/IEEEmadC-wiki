@@ -1,4 +1,4 @@
-# git-wiki
+# Swift
 
 it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
 
