@@ -26,6 +26,8 @@
 
 ### Promo Video
 
+[![Watch the video](https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/assets/Feature%20Graphic.png)](https://drive.google.com/file/d/1TmfxOFdIi1acaI34WrO8XIbZcilMAuYz/view)
+
 ### License
 
 * See [LICENSE](https://github.com/sree-sankar/IEEEmadC-wiki/blob/gh-pages/LICENSE) file
