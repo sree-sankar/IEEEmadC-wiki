@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D1E05</color>
+    <color name="colorPrimaryDark">#915814</color>
+    <color name="ipc">#C1266C</color>
+    <color name="court">#59287E</color>
+    <color name="lawers">#006AA8</color>
+</resources>
+

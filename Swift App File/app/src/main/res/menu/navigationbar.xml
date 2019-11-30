@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+            android:id="@+id/eventsguest"
+            android:icon="@drawable/ic_bubble_grey"
+            android:title="IPC Sections"/>
+
+    <item   android:id="@+id/about_usguest"
+            android:icon="@drawable/ic_account_balance_grey"
+            android:title="Court"
+    />
+
+
+    <item   android:id="@+id/result"
+            android:icon="@drawable/ic_person_grey"
+            android:title="Lawers"
+    />
+</menu>

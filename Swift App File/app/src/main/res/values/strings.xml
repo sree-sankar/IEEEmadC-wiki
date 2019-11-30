@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Swift</string>
+
+
+    <string name="searchipc">Search with
+        <b>Keyword</b>
+    </string>
+    <string name="searchcourt">Search your
+        <b>Location</b>
+    </string>
+    <string name="searchlawers">Search your
+        <b>Location</b>
+    </string>
+
+
+    <string name="section_24_description">Whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person, is said to do that thing dishonestly</string>
+    <string name="section_24_keywords">fraudulent, corrupt,swindling,cheating,double-dealing</string>
+
+    <string name="section_25_description">A person is said to do a thing fraudulently if he does that thing with intent to defraud but not otherwise</string>
+    <string name="section_25_keywords">"fraud,sharp practice,cheating,swindling,trickery</string>
+
+    <string name="section_28_description">A person is said to ?counterfeit? who causes one thing to resemble another thing, intending by means of that resemblance to practice deception, or knowing it to be likely that deception will thereby be practiced</string>
+    <string name="section_28_keywords">counterfeit,fake,forgery,copy,reproduction,replica,imitation</string>
+
+    <string name="section_46_description">Denotes the death of a human being unless the contrary appears from the context</string>
+    <string name="section_46_keywords">suicide,hanging‎,pesticide,poisoning,self-destruction,self-immolation,self-slaughter</string>
+
+
+    <string name="section_54_description">In every case in which sentence of death shall have been passed, the appropriate Government may, without the consent of the offender, commute the punishment for any other punishment provided by this Code</string>
+    <string name="section_54_keywords">murder,suicide,death,killed,assassination,bloodshed,crime,destruction,felony,homicide,lynching,manslaughter,massacre,shooting,slaying,terrorism</string>
+
+    <string name="section_302_description">Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine</string>
+    <string name="section_302_keywords">murder,suicide,death,killed,assassination,bloodshed,crime,destruction,felony,homicide,lynching,manslaughter,massacre,shooting,slaying,terrorism</string>
+
+
+
+    <string name="section_303_description">Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death</string>
+    <string name="section_303_keywords">murder,suicide,death,killed,assassination,bloodshed,crime,destruction,felony,homicide,lynching,manslaughter,massacre,shooting,slaying,terrorism</string>
+
+
+    <string name="section_304A_description"> Causing death by negligence. Whoever causes the death of any person by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both</string>
+    <string name="section_304A_keywords">assassinate,drown,execute,get,hit,massacre,murder,poison,slaughter,slay,wipe out,annihilate,asphyxiate,crucify,dispatch,dump,electrocute,eradicate,erase,exterminate,extirpate,finish,garrote,guillotine,hang,immolate,liquidate,lynch,neutralize,obliterate,off,sacrifice,smother,snuff,strangle,suffocate,waste,zap,X-out,do away with,do in,polish off,put away,put to death,rub out</string>
+
+
+    <string name="section_121_description">Waging or attempting to wage war, or abetting the waging of war, against the Government of India. Imprisonment for life or imprisonment upto 10 years along  with fine Non-bailable</string>
+    <string name="section_121_keywords">battle,bloodshed,combat,conflict,fighting,hostility,strife,strike,struggle,warfare,contention,contest,enmity,hostilities,cold war,police action,insurrection,revolt,revolution,riot,uprising,disobedience,insubordination,rising,strike,refusal to obey</string>
+
+    <string name="section_131_description">Abetting mutiny or attempting to seduce a soldier, sailor or airman . Non-bailable. Imprisonment for life or 10 years with fine</string>
+    <string name="section_131_keywords">battle,bloodshed,combat,conflict,fighting,hostility,strife,strike,struggle,warfare,contention,contest,enmity,hostilities,cold war,police action,insurrection,revolt,revolution,riot,uprising,disobedience,insubordination,rising,strike,refusal to obey</string>
+
+    <string name="section_228_description">Intentionally insult or interruption to public servant sitting in judicial proceeding . Bailable. Imprisonment for 6 months along with fine of INR 1000</string>
+    <string name="section_228_keywords">abuse,affront,blasphemy,contempt,disgrace,disrespect,indignity,invective,libel,outrage,put-down,scorn,shame,slander,slap,slight,snub,taunt,aspersion,contumely,derision,despite,discourtesy,disdainfulness,ignominy,impertinence,impudence,incivility,insolence,mockery,obloquy,offense,opprobrium,rudeness,scurrility,slam,superciliousness,vilification,vituperation,black eye,cheap shot,slap in the face,unpleasantry</string>
+
+    <string name="section_272_description">Adulteration for food or drink intended for sale . Bailable. Imprisonment for 6 months with fine of INR 1000</string>
+    <string name="section_272_keywords">contamination,deterioration,debauchment,adulteration</string>
+
+    <string name="section_283_description">Danger or obstruction in public way or line of navigation. Bailable. Fine of INR 200 to be paid</string>
+    <string name="section_283_keywords">obstruction,blockage,hindrance,interference,bar,barricade,barrier,block,blocking,check,checkmate,circumvention,difficulty,gridlock,hamper,hurdle,jam,lock,mountain,restraint,roadblock,snag,stop,stoppage,trammel,</string>
+
+    <string name="section_295_description">Injuring places of worship with an intent to insult the religion of any class. Non-bailable. Imprisonment for 2 years with fine</string>
+    <string name="section_295_keywords">church,creed,cult,denomination,doctrine,morality,myth,mythology,prayer,ritual,sect,spirituality,superstition,theology,communion,devotion,observance,orthodoxy,pietism,piety,preference,religiosity,rites,sacrifice</string>
+
+    <string name="section_295A_description">Deliberate and malicious act intended to outrage religious feelings of any class, by insulting religious beliefs.. Non bailable. Imprisonment for 3 years with fine</string>
+    <string name="section_295A_keywords">church,creed,cult,denomination,doctrine,morality,myth,mythology,prayer,ritual,sect,spirituality,superstition,theology,communion,devotion,observance,orthodoxy,pietism,piety,preference,religiosity,rites,sacrifice</string>
+
+    <string name="section_4_description">Cheating and dishonestly inducing delivery of property. Non bailable. Imprisonment for 7 years and fine</string>
+    <string name="section_4_keywords">equity,estate,farm,goods,home,house,land,ownership,plot,tract,wealth,worth,acreage,acres,assets,belongings,buildings,capital,chattels,claim,dominion,effects,freehold,holdings,inheritance,means,premises,proprietary,proprietorship,realty,resources,riches,substance,title,possessorship</string>
+
+    <string name="section_376_description">Punishment for  Rape. Non bailable. Rigorous imprisonment for life or not less than 7 years</string>
+    <string name="section_376_keywords">"abduction,abuse,rape,maltreatment,molestation,violation,depredation,despoilment,despoliation,pillage,plunder,plundering,rapine,spoliation</string>
+
+    <string name="section_395_description">Punishment for  Dacoity. Non bailable. Imprisonment for 10 years and fine</string>
+    <string name="section_395_keywords">criminal,gangster,hooligan,marauder,mobster,outlaw,pirate,raider,robber,brigand,crook,desperado,forager,hijacker,pillager,plunderer,racketeer,villain,gunperson,highwayperson,holdup person,ravager</string>
+
+    <string name="section_489_description">Possession of forged currency notes or banknotes. Bailable. Imprisonment for 7 years and fine</string>
+    <string name="section_489_keywords">bogus counterfeit,copied,false currency,fictitious,forged,fraudulent,phony,spurious</string>
+
+    <string name="section_496_description">Marriage ceremony fraudulently gone through without lawful marriage. Bailable. Imprisonment for 7 years and fine</string>
+    <string name="section_496_keywords">merger,wedding,Sacrament,alliance,amalgamation,association,confederation,consortium,coupling,espousal,link,match,mating,matrimony,monogamy,nuptials,tie,wedlock,conjugality,connubiality,holy matrimony,pledging,spousal,tie that binds,wedded bliss,wedded state,wedding bells,wedding ceremony</string>
+
+    <string name="section_498_description">Enticing or taking away or detaining with criminal intent. Bailable. Imprisonment for 2 years and fine</string>
+    <string name="section_498_keywords">apprehend,confine,delay,jail,bust,buttonhole,check detain take away entice,constrain,decelerate,hinder,ice,impede,inhibit,intern,mire,nab,pinch,reserve,restrain,retard,withhold</string>
+
+    <string name="section_411_description">Dishonestly receiving Stolen property. Non bailable. Imprisonment for 3 years and fine</string>
+    <string name="section_411_keywords">abduct,divert,embezzle,keep,kidnap,loot,pilfer,plunder,ransack,remove,strip,swipe,take,appropriate,blackmail,burglarize,cheat,cozen,defraud,despoil,heist,housebreak,lift,misappropriate,peculate,pillage,pinch,pirate,plagiarize,poach,purloin,rifle,sack,shoplift,snitch,swindle,thieve,withdraw</string>
+
+
+    <string name="section_269_description">Negligent act likely to spread infectious disease dangerous to life. Bailable. Imprisonment for 6 months  with fine</string>
+    <string name="section_269_keywords">cancer bug,condition,contamination,defect,disorder,epidemic,fever,flu,illness,infection,inflammation,malady,plague,sickness,stroke,syndrome,virus,ache,affection,attack,blight,breakdown,canker,collapse,complaint,contagion,convulsions,debility,decrepitude,distemper,endemic,feebleness,fit,hemorrhage,indisposition,infirmity,misery,seizure,spell,temperature,unhealthiness,unsoundness,upset,visitation</string>
+
+    <string name="section_120B_description">Criminal conspiracy to commit an offence punishable with death. Depends on the offence. E.g. for Punishment for murder, Non-bailable. Punishment depends on the offence</string>
+    <string name="section_120B_keywords">plot,scheme,sedition,treason,cabal,confederacy,connivance,countermine,counterplot,disloyalty,fix,frame,game,hookup,intrigue,league,machination,perfidy,practice,treachery,trick,trickery,complot,covin,little game,put-up job,treacherousness</string>
+
+    <string name="section_203_description">Giving false information respecting an offence. Bailable. Imprisonment for two years along with fine</string>
+    <string name="section_203_keywords">bogus,deceitful,dishonest,distorted,erroneous,fake,fanciful,faulty,fictitious,fraudulent,improper,inaccurate,incorrect,invalid,misleading,mistaken,phony,specious,spurious,unfounded,unreal,untrue,untruthful</string>
+
+    <string name="section_223_description">Escape from confinement or custody negligently suffered by public servant. Bailable. Imprisonment for two years along with fine</string>
+    <string name="section_223_keywords">custody,detention,incarceration,internment,jail,repression,bonds,bounds,check,circumscription,coercion,constraint,control,cramp,curb,delimitation,keeping,limitation,safekeeping,trammels,bounding,constrainment,immuration</string>
+
+
+
+</resources>
+
